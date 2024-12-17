@@ -1,0 +1,26 @@
+.tab-item {
+  margin: 20px;
+}
+.inactive-tab-btn {
+  color: #db1c48;
+  border-radius: 20px;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  border: 2px solid #db1c48;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.active-tab-btn {
+  color: #ffffff;
+  background-color: #db1c48;
+  border-radius: 20px;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
